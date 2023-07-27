@@ -8,7 +8,7 @@ HERE = pathlib.Path(__file__).parent
 README = (HERE / "README.md").read_text()
 
 setup(
-    name='string_grouper',
+    name='cgvdiit_string_grouper',
     version='0.6.1',
     packages=['string_grouper', 'string_grouper_utils'],
     license='MIT License',
